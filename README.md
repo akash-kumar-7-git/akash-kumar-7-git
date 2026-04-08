@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Singh</h1>
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <h3 align="center">Aspiring Java Full Stack Developer | DSA Enthusiast | Building real-world projects & preparing for top tech roles</h3>
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript**
