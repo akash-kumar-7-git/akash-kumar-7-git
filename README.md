@@ -26,15 +26,14 @@
   <img src="https://streak-stats.demolab.com?user=akash-kumar-7-git&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/akash-kumar-singh-9a8363314/" target="blank" style="display:block; margin-bottom:10px;">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akash-kumar-singh-9a8363314" height="30" width="40" />
+<a href="https://www.linkedin.com/in/akash-kumar-singh-9a8363314/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-
-<a href="https://www.instagram.com/__.akashh__007.__/?hl=en" target="blank" style="display:block;">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__.akashh__007.__/?hl=en" height="30" width="40" />
+<br><br>
+<a href="https://www.instagram.com/__.akashh__007.__/?hl=en" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 </p>
 
