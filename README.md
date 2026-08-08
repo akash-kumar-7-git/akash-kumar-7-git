@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://personal797-portfolio.netlify.app/](https://personal797-portfolio.netlify.app/)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, Spring Boot, MySQL, DSA**
 
 - 📫 How to reach me **awesomeakash2003@gmail.com**
 
