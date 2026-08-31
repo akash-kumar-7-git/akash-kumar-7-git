@@ -6,7 +6,7 @@
 
 <h3 align="center">Aspiring Java Full Stack Developer | DSA Enthusiast | Building real-world projects & preparing for top tech roles</h3>
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **HTML, CSS and JavaScript, JDBC, React**
 
 - 👯 I’m looking to collaborate on **cloud based projects**
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://personal797-portfolio.netlify.app/](https://personal797-portfolio.netlify.app/)
 
-- 💬 Ask me about **Java, Spring Boot, MySQL, DSA**
+- 💬 Ask me about **Java, Spring Boot, MySQL, DSA, OOPS, Operating System (OS), Basic Networking**
 
 - 📫 How to reach me **awesomeakash2003@gmail.com**
 
