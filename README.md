@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **awesomeakash2003@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/akash-kumar-7-git/resume/blob/b08c5eaca821767451116a01c1f04e3f2adeef40/Main%20resume.pdf](https://github.com/akash-kumar-7-git/resume/blob/b08c5eaca821767451116a01c1f04e3f2adeef40/Main%20resume.pdf)
+- 📄 Know about my experiences [https://github.com/akash-kumar-7-git/resume/blob/main/Ai%20Resume.pdf](https://github.com/akash-kumar-7-git/resume/blob/main/Ai%20Resume.pdf)
 
 - ⚡ Fun fact **I make entertainment.**
 
